@@ -2,7 +2,7 @@
 
  For software as a service \(SaaS\) products, you subscribe to products through AWS Marketplace, but you access the product in the software seller's environment\. AWS Marketplace oﬀers two pricing models for SaaS listings: SaaS subscriptions and SaaS contracts\. 
 
-## SaaS pubscriptions<a name="saas-subscriptions"></a>
+## SaaS subscriptions<a name="saas-subscriptions"></a>
 
 With SaaS subscriptions, the software seller tracks your usage and you pay only for what you use\. This pay\-as\-you go pricing model is similar to that of many Amazon Web Services \(AWS\) services\. Billing for your usage of a SaaS product is managed through your AWS bill\. 
 
